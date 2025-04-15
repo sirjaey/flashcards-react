@@ -47,7 +47,6 @@ div.selected {
 
 @media screen and (max-width: 768px) {
   .flashcards {
-    display: none;
     grid-template-columns: 1fr;
   }
   .heading{
